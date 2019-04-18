@@ -10,3 +10,4 @@ Come join us at our next meetup [here](https://meetup.com/leicesterjs)
 * January Intro Slides: https://docs.google.com/presentation/d/1MnZgcyBB0Ef7Y3rcT3Ey8YnIiRea71UynfhUJkW18fo/edit
 * February Intro Slides: https://docs.google.com/presentation/d/1ZNMWhIwT-A6nkBP6KWnUd8mhYIVTWC0L2ve9xf15vhU/edit?usp=sharing
 * March Intro Slides: https://docs.google.com/presentation/d/1SBVnTXW7ydX_mnoTTV5Hu-Ur1rcEc77apKvxMlP-AaA/edit?usp=sharing
+* April Intro Slides: https://docs.google.com/presentation/d/1T5SoQk6bBl9qYjxGVqdgjygB9aZxCWQavnj2gkiN_rg/edit?usp=sharing

@@ -4,9 +4,7 @@ Feedback about the talks and slides
 Find the slides from some of our talks here.
 Come join us at our next meetup [here](https://meetup.com/leicesterjs)
 
-
-* October Intro Slides: https://docs.google.com/presentation/d/1X9AgWfWDEI2awJgX3pmr2R9pjxtAewR2Ak-KS8pr8Z0/edit?usp=sharing
-* November Intro slides: https://docs.google.com/presentation/d/10Ts4npvzroIxNEqaxbGAW_pg8DPUxJIrhfxLZYGxUwE/edit?usp=sharing
+## 2019
 * January Intro Slides: https://docs.google.com/presentation/d/1MnZgcyBB0Ef7Y3rcT3Ey8YnIiRea71UynfhUJkW18fo/edit
 * February Intro Slides: https://docs.google.com/presentation/d/1ZNMWhIwT-A6nkBP6KWnUd8mhYIVTWC0L2ve9xf15vhU/edit?usp=sharing
 * March Intro Slides: https://docs.google.com/presentation/d/1SBVnTXW7ydX_mnoTTV5Hu-Ur1rcEc77apKvxMlP-AaA/edit?usp=sharing
@@ -16,3 +14,8 @@ Come join us at our next meetup [here](https://meetup.com/leicesterjs)
 * July Intro Slides: https://docs.google.com/presentation/d/1pTjbB5iOcvzyFdH5JGhvXTuCirGo_bwf_xIINUhTLJw/edit?usp=sharing
   - React Conf Talk Submit: https://forms.gle/yiCsoLLwSKnTmeVn7
 * August Intro Slides: https://docs.google.com/presentation/d/1d8lQ_Tcgbxo4qbmHJLaQxXxaXcYAojWOd-Sg9wDXXls/edit?usp=sharing
+* October Intro Slides: https://docs.google.com/presentation/d/1jzZbt5c4GMmy5EdUL6voJdQqXAYKQFi98UYBVKpvXSI/edit?usp=sharing
+
+## 2018
+* October Intro Slides: https://docs.google.com/presentation/d/1X9AgWfWDEI2awJgX3pmr2R9pjxtAewR2Ak-KS8pr8Z0/edit?usp=sharing
+* November Intro slides: https://docs.google.com/presentation/d/10Ts4npvzroIxNEqaxbGAW_pg8DPUxJIrhfxLZYGxUwE/edit?usp=sharing

@@ -15,6 +15,7 @@ Come join us at our next meetup [here](https://meetup.com/leicesterjs)
   - React Conf Talk Submit: https://forms.gle/yiCsoLLwSKnTmeVn7
 * August Intro Slides: https://docs.google.com/presentation/d/1d8lQ_Tcgbxo4qbmHJLaQxXxaXcYAojWOd-Sg9wDXXls/edit?usp=sharing
 * October Intro Slides: https://docs.google.com/presentation/d/1jzZbt5c4GMmy5EdUL6voJdQqXAYKQFi98UYBVKpvXSI/edit?usp=sharing
+* November Intro slides: https://docs.google.com/presentation/d/1Uau2mx9WDqe6XY7pr5AyzJxFg88CUMN46Irh-0mQwMY/edit?usp=sharing
 
 ## 2018
 * October Intro Slides: https://docs.google.com/presentation/d/1X9AgWfWDEI2awJgX3pmr2R9pjxtAewR2Ak-KS8pr8Z0/edit?usp=sharing

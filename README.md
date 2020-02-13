@@ -6,6 +6,7 @@ Come join us at our next meetup [here](https://meetup.com/leicesterjs)
 
 ## 2020
 * January Intro slides: https://docs.google.com/presentation/d/14vwLV_ltqEvEHhqBXCh94dyP1Sq5KxTnQAsjE0ZcxYQ/edit?usp=sharing
+* February: https://docs.google.com/presentation/d/11AOK4SmTU_OthOB8NU8sakST9zRELFx5kbdNRvwPHfQ/edit?usp=sharing
 
 ## 2019
 * January Intro Slides: https://docs.google.com/presentation/d/1MnZgcyBB0Ef7Y3rcT3Ey8YnIiRea71UynfhUJkW18fo/edit
